@@ -1,0 +1,1 @@
+add_library(lib_calculator calculator.cpp)

@@ -1,0 +1,6 @@
+calculator_suit.sum_test 7 0.00130466
+calculator_suit.diff_test 9 0.000984656
+calculator_suit.miltiply_test 11 0.0007942
+calculator_suit.divisioin_test 1 0.0198285
+calculator_suit.division_test 6 0.00155778
+---
